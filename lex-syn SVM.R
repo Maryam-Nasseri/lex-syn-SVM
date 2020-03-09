@@ -1,7 +1,8 @@
 
 #Maryam Nasseri
 
-# Text cleaning and classification extension of lex-syn project from a corpus of abstracts by EFL and NS groups. Based on Nasseri (2020) project. support vector machine classification
+# Text cleaning and classification extension of lex-syn project from a corpus of abstracts by EFL and NS groups. 
+#Based on Nasseri (2020) project. support vector machine classification
 
 #A brief version of code and results
 
